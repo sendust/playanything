@@ -1,0 +1,3 @@
+PlayAnything Error Report    [ 2022/08/30 12:42.36 ] 
+ ---  Error Playing  --- 
+ C:\utility\20200713_EBS2-자연이 과학이다.mp4
